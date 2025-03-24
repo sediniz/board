@@ -29,5 +29,4 @@ Requisitos opcionais
 2 - O codigo deve ser gerar um relatorio do board selecionado com o tempo que cada tarefa demorou para ser concluida com informações do tempo que levou em casa coluna.
 
 3 - O codigo deve gerar um relatorio do board selecionado com os bloqueios dos cards, com o tempo que ficaram bloqueados e com a justificativa dos bloqueios e desbloqueios.
-
-Diagrama de Classes (UML) 
+ 
