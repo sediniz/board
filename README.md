@@ -17,7 +17,7 @@ Regra dos boards:
 
 5 - Um card deve navegar nas colunas seguindo a ordem delas no board, sem pular nenhuma etapa, exceto pela coluna de cards cancelados que pode receber cards diretamente de qualquer coluna que não for a coluna final.
 
-6 - Se um card estiver marcado como bloqueado ele não pode ser movido ate ser desbloqueado.
+6 - Se um card estiver marcado como bloqueado ele não pode ser movido até ser desbloqueado.
 
 7 - Para bloqeuar um card deve-se informr o motivo de seu bloqueio e para desbloquea-lo deve-se também informar o motivo.
 
